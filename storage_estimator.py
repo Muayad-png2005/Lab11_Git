@@ -9,3 +9,4 @@ total_gb = total_mb / 1024
 
 print("Total storage in MB:", total_mb)
 print("Total storage in GB:", round(total_gb, 2))
+print("Calculation completed successfully!")
